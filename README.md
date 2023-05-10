@@ -4,6 +4,8 @@ This project leverages the power of Next.js and React to create a cutting-edge f
 
 You can test the application on:https://share-promts-gbpw0i5qf-dbasdanis.vercel.app
 
+Source: https://www.youtube.com/watch?v=wm5gMKuwSYk
+
 ![alt text](https://github.com/dbasdanis/share_promts/blob/main/Screenshot%202023-05-10%20at%2008.31.52.png?raw=true)
 
 ## Automatic generated
