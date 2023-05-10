@@ -1,3 +1,10 @@
+## Promptopia
+
+This project leverages the power of Next.js and React to create a cutting-edge full stack application. It seamlessly integrates with a MongoDB database and is deployed using Vercel, showcasing the implementation of the latest tools and technologies.
+
+
+## Automatic generated
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
