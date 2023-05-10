@@ -2,6 +2,8 @@
 
 This project leverages the power of Next.js and React to create a cutting-edge full stack application. It seamlessly integrates with a MongoDB database and is deployed using Vercel, showcasing the implementation of the latest tools and technologies.
 
+You can test the application on:https://share-promts-gbpw0i5qf-dbasdanis.vercel.app
+
 ![alt text](https://github.com/dbasdanis/share_promts/blob/main/Screenshot%202023-05-10%20at%2008.31.52.png?raw=true)
 
 ## Automatic generated
